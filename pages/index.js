@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Alterei de novo</h1>
+    return <h1>Jesus é o caminho, a verdade e a vida!</h1>
 }
 
 export default Home;
